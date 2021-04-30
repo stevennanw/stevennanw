@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevennanw&hide=html&theme=prussian)](https://github.com/stevennanw/github-readme-stats)
-
 <!--
 **stevennanw/stevennanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
